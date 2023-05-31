@@ -1,0 +1,9 @@
+Order Details:
+-----------------------------
+Product: Ceramic Product: SaladBowl
+Price: $22.990000
+Material: AcariaWood
+
+Customer: MD Tahsinur Rahman
+Shipping Address: Khulna, Bangladesh
+Contact Number: +8801799303603

@@ -115,7 +115,7 @@ int main()
         const Product *selectedProduct = productManager.selectProduct(productIndex - 1);
         if (selectedProduct == nullptr)
         {
-            throw InvalidProductException();
+            throw InvalidProductException();a
         }
 
         string customerName;

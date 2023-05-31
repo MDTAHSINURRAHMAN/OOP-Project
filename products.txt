@@ -1,0 +1,10 @@
+Vase 19.99 Porcelain
+Mug 9.99 Stoneware
+CeramicTiles 29.99 Terracotta
+Plate 6.99 Earthenware
+CandleHolder 14.99 Glass
+ServingTray 34.99 Bamboo
+KitchenKnifeSet 49.99 StainlessStill
+SaladBowl 22.99 AcariaWood
+WineGlassSet 29.99 Crystal
+Teapot 18.99 CastIron
